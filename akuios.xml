@@ -3,11 +3,11 @@
     <channel>
         <title>AKU Surgery & Confrence- Appcast</title>
         <item>
-            <title>Version 1.0.5</title>
+            <title>Version 2.2</title>
             <description>desc</description>
             <pubDate>Tue, 13 FEB 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/aku-surgery-conference/id6477149760"
-            sparkle:version="1.0.5"
+            sparkle:version="2.2"
             sparkle:os="ios" />
         </item>
     </channel>
